@@ -1,3 +1,5 @@
+# Please view older projects on my previous Repo   [![GitHub](https://img.shields.io/badge/GitHub-tharindug99-black?logo=github)](https://github.com/tharindug99)
+
 # 💫 About Me
 
 <div id="header" align="center">
@@ -19,11 +21,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tharindug99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tharindug99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tharindug99&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tharindug99&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
