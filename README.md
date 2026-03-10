@@ -1,4 +1,6 @@
-# Please view older projects on my previous Repo   [![GitHub](https://img.shields.io/badge/GitHub-tharindug99-black?logo=github)](https://github.com/tharindug99)
+# Please view older projects on my previous Repo  
+
+[![GitHub](https://img.shields.io/badge/GitHub-tharindug99-black?logo=github)](https://github.com/tharindug99)
 
 # 💫 About Me
 
